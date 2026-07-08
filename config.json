@@ -1,0 +1,14 @@
+{
+    "DESIGN_NAME": "mux8to1",
+    "VERILOG_FILES": [
+        "dir::src/mux8to1.v"
+    ],
+    "CLOCK_PORT": null,
+    "CLOCK_NET": null,
+
+    "FP_CORE_UTIL": 20,
+    "PL_TARGET_DENSITY": 0.45,
+
+    "DIE_AREA": "0 0 200 200",
+    "FP_SIZING": "absolute"
+}
